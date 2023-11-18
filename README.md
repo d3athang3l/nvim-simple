@@ -3,3 +3,4 @@
 </br>
 Includes a [Packer](https://github.com/wbthomason/packer.nvim) as Plugin-Manager, a [simple Statusline](https://github.com/nvim-lualine/lualine.nvim), [Purify](https://github.com/kyoz/purify) as Colorscheme and a [Color Highlighter](https://github.com/NvChad/nvim-colorizer.lua).
 Run `cp -r nvim ⁓/.config` to copy all Files to the`.config`-Folder and launch Neovim, to install packer. Run `cp purify.lua ⁓/.local/share/nvim/site/pack/packer/start/lualine.nvim/lua/lualine/themes`.
+Also run 'cp -r purify ⁓/.local/share/nvim/site/pack/packer/start'.
